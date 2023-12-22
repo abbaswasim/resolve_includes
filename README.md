@@ -1,8 +1,8 @@
-#Resolve includes
+# Resolve includes
 
 Simple single file C++11 header only library to resolve includes in text files like shaders.
 
-##Usage 
+## Usage 
 
 ```c++
 bool resolve_with_markers{false};
